@@ -1,7 +1,8 @@
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { StyleSheet, Text, View, TextInput, TouchableOpacity } from 'react-native';
-
+//NON TESTer
+//By nonny
 export default function App() {
   const [value, onChangeText] = React.useState('');
   return (
